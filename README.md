@@ -10,10 +10,10 @@
 ## Objectifs de Galibat
 
 Galibat est conçu pour :
-- 📊 **Gérer les bâtiments** : Suivi des informations et caractéristiques des bâtiments.
-- 🔧 **Optimiser les programmes de travaux** : Aide à la planification et à l'exécution des rénovations.
-- 🏡 **Gérer les diagnostics** : Suivi des audits et diagnostics, dont les **DPE** (Diagnostic de Performance Énergétique).
-- ⚡ **Simuler les performances énergétiques** : Évaluer l'impact des travaux sur la consommation énergétique.
+- **Gérer les bâtiments** : Suivi des informations et caractéristiques des bâtiments.
+- **Optimiser les programmes de travaux** : Aide à la planification et à l'exécution des rénovations.
+- **Gérer les diagnostics** : Suivi des audits et diagnostics, dont les **DPE** (Diagnostic de Performance Énergétique).
+- **Simuler les performances énergétiques** : Évaluer l'impact des travaux sur la consommation énergétique.
 
 ## Fonctionnalités principales
 
@@ -21,7 +21,7 @@ Galibat est conçu pour :
 - **Planification des travaux** avec suivi des coûts et gains énergétiques.
 - **Moteur de simulation** pour estimer l'impact des rénovations.
 - **Suivi des diagnostics réglementaires** (DPE, audits énergétiques...).
-- **Plateforme communautaire** : Tout le monde peut contribuer ! 🫱‍🫲
+- **Plateforme communautaire** : Tout le monde peut contribuer !
 
 ## Contribution
 
