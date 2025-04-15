@@ -23,6 +23,9 @@ Galibat est conçu pour :
 - **Suivi des diagnostics réglementaires** (DPE, audits énergétiques...).
 - **Plateforme communautaire** : Tout le monde peut contribuer !
 
+## Version de démonstration
+https://www.galibat.fr/
+
 ## Contribution
 
 Galibat est un projet **communautaire et open-source**. Toute aide est la bienvenue !  
